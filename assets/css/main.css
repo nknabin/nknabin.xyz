@@ -1,0 +1,82 @@
+html {
+  min-height: 100vh;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  background: #1b1b1b;
+  color: white;
+}
+
+/* Introduction */
+.introduction {
+  padding-top: 4%;
+  text-align: center;
+}
+
+.introduction a {
+  text-decoration: none;
+}
+
+.introduction h1 {
+  color: #f7dc6f;
+}
+
+.introduction h2 {
+  color: #3498db;
+  text-align: left;
+}
+
+.self-photo {
+  margin: 2% 0;
+  max-height: 300px;
+  width: auto;
+}
+
+/* Socials */
+.socials a {
+  text-decoration: none;
+  color: white;
+}
+
+/* My Stuff */
+.my-stuff-heading {
+  text-align: center;
+}
+
+.my-stuff-heading h4 {
+  color: #f7dc6f;
+}
+
+.my-stuff-list a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Experiences */
+.exp-item h3 {
+  color: #3498db;
+}
+
+.exp-item h4 {
+  color: #3498db;
+}
+
+.exp-date {
+  font-style: italic;
+}
+
+.exp-place {
+  color: #87ceeb;
+}
+
+.exp-location {
+  font-style: italic;
+  color: #87ceeb;
+}
+
+/* Certifications */
+.cert-issuer {
+  font-style: italic;
+}
