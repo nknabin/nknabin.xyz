@@ -5,8 +5,13 @@ html {
 body {
   min-height: 100vh;
   margin: 0;
-  background: #1b1b1b;
-  color: white;
+  /* background: #white; */
+  /* color: white; */
+}
+
+a {
+    color: black;
+    text-decoration: none;
 }
 
 /* Introduction */
@@ -20,11 +25,11 @@ body {
 }
 
 .introduction h1 {
-  color: #f7dc6f;
+  /* color: #f7dc6f; */
 }
 
 .introduction h2 {
-  color: #3498db;
+  /* color: #3498db; */
   text-align: left;
 }
 
@@ -37,7 +42,7 @@ body {
 /* Socials */
 .socials a {
   text-decoration: none;
-  color: white;
+  /* color: white; */
 }
 
 /* My Stuff */
@@ -46,7 +51,7 @@ body {
 }
 
 .my-stuff-heading h4 {
-  color: #f7dc6f;
+  /* color: #f7dc6f; */
 }
 
 .my-stuff-list a {
@@ -56,11 +61,11 @@ body {
 
 /* Experiences */
 .exp-item h3 {
-  color: #3498db;
+  /* color: #3498db; */
 }
 
 .exp-item h4 {
-  color: #3498db;
+  /* color: #3498db; */
 }
 
 .exp-date {
@@ -68,12 +73,16 @@ body {
 }
 
 .exp-place {
-  color: #87ceeb;
+  /* color: #87ceeb; */
 }
 
 .exp-location {
   font-style: italic;
-  color: #87ceeb;
+  /* color: #87ceeb; */
+}
+
+.exp-color {
+  /* color: #87ceeb; */
 }
 
 /* Certifications */
